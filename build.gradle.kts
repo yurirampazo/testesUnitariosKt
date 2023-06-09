@@ -11,6 +11,7 @@ repositories {
 }
 
 dependencies {
+    implementation("org.junit.contrib:junit-theories:5.0-alpha-3")
     testImplementation(kotlin("test"))
 }
 
